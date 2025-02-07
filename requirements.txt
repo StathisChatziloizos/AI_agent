@@ -1,0 +1,4 @@
+beautifulsoup4
+requests
+google-generativeai
+grpcio==1.60.1 # To suppress a warning message of google-generativeai
